@@ -1,4 +1,4 @@
-# Contributor
+# Contributors
 <table>
 	<tr>
 		<td>
