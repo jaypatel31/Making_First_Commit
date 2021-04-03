@@ -1,0 +1,12 @@
+data = 	`
+			[
+				{
+					"user_id":"jaypatel31",
+					"keyword":"Full Stack Developer"
+				},
+				{
+					"user_id":"gohil-jay",
+					"keyword":"AI/ML Enthusiastic"
+				}
+			]
+		`;
