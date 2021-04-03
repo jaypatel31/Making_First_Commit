@@ -1,4 +1,4 @@
-# Contributor
+# Contributors
 <table>
 	<tr>
 		<td>
@@ -8,3 +8,4 @@
 		</td>
 	</tr>
 </table>
+## HEADING
